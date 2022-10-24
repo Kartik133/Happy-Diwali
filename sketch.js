@@ -15,14 +15,14 @@ function draw() {
   textSize(30);
   noStroke();
   textAlign(CENTER);
-  text("Prakash Khaitan",270,450);
+  text("Uma Khaitan",270,450);
   push();
   textSize(50);
   textFont(font);
   text("Happy Diwali",270,200);
   pop();
-  textSize(25);
-  text("P K Weaving Mills Pvt Ltd",270,480);
+  //textSize(25);
+  //text("P K Weaving Mills Pvt Ltd",270,480);
   textSize(25);
   textFont(font2);
   text("May this Diwali bring",270,290);
