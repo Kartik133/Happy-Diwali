@@ -15,7 +15,7 @@ function draw() {
   textSize(30);
   noStroke();
   textAlign(CENTER);
-  text("Pankaj Khaitan",270,450);
+  text("Prakash Khaitan",270,450);
   push();
   textSize(50);
   textFont(font);
